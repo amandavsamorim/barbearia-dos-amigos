@@ -1,1 +1,33 @@
-# barbearia-dos-amigos
+# [💈 Landing Page — Barbearia dos Amigos](https://amandavsamorim.github.io/barbearia-dos-amigos/)
+
+Projeto de **landing page** desenvolvida em **WordPress**, focada em apresentar os serviços da barbearia, fortalecer a identidade visual e facilitar o agendamento dos clientes.
+
+## 🎯 Objetivo
+Criar uma página moderna, responsiva e otimizada para conversão, destacando:
+- Serviços da barbearia  
+- Diferenciais  
+- Depoimentos  
+- Botões de contato e agendamento  
+
+## 🛠️ Tecnologias & Ferramentas
+- **WordPress**
+- **Elementor** (page builder)
+- **HTML / CSS personalizado**  
+- **Hospedagem via GitHub Pages** (exportação estática)
+- Plugins utilizados:
+  - Simply Static (exportação)
+  - Elementor Free/Pro
+  - Outros auxiliares de performance/SEO
+
+## ✨ Destaques do Projeto
+- Layout responsivo  
+- Design focado em estética masculina / barbearia  
+- Animações leves (fade, movimentos e hover)  
+- Otimização das imagens para carregar rápido  
+- Estrutura fácil de editar e manter  
+
+## 📂 Como visualizar
+Você pode acessar a página aqui:  
+👉 **https://amandavsamorim.github.io/barbearia-dos-amigos/**
+
+Ou navegar pelos arquivos diretamente no repositório para ver a estrutura gerada pelo *Simply Static*.  
