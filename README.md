@@ -30,4 +30,25 @@ Criar uma página moderna, responsiva e otimizada para conversão, destacando:
 Você pode acessar a página aqui:  
 👉 **https://amandavsamorim.github.io/barbearia-dos-amigos/**
 
-Ou navegar pelos arquivos diretamente no repositório para ver a estrutura gerada pelo *Simply Static*.  
+Ou navegar pelos arquivos diretamente no repositório para ver a estrutura gerada pelo *Simply Static*. 
+
+## :woman_technologist:  Autora
+
+<table class="author">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/amandavsamorim">
+        <img src="https://avatars.githubusercontent.com/u/104646886?v=4" 
+        width="100px;" alt="Amanda Amorim"/>
+        <br/>
+        <sub>
+          <b>Amanda Amorim</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>   
+   LinkedIn: https://www.linkedin.com/in/amandavsamorim/ <br>
+   Telegram: https://t.me/amandavsamorim
+   
+   E-mail: amandavsadev@gmail.com
